@@ -1,6 +1,6 @@
 # Privacy Policy
 
-we adara app takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+we hazazer app takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 ## Collection of Routine Information
